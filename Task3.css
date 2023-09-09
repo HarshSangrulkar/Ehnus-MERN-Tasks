@@ -1,0 +1,8 @@
+.container{
+    /* display: inline; */
+    text-align: center;
+    background-color: rgb(155, 168, 168);
+    width: 500px;
+    height: 100px;
+    padding-top: 30px;
+}
